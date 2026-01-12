@@ -2,7 +2,7 @@ class Calculadora:
 
     def __init__(self, num1, num2, operador):
         self.__setNum1(num1)
-        self.__setNum2(num2)
+        self.__setNum2(num2) #comentario lider
         self.__setOperador(operador)
 
     def __setNum1(self, num1):
